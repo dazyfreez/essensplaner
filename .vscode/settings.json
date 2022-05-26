@@ -1,17 +1,3 @@
 {
-    "sqltools.connections": [
-        {
-            "mysqlOptions": {
-                "authProtocol": "default"
-            },
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 3306,
-            "driver": "MySQL",
-            "name": "essensplaner",
-            "database": "essen",
-            "username": "root",
-            "password": "1234"
-        }
-    ]
+    "sqltools.connections": []
 }
