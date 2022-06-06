@@ -1,6 +1,6 @@
 -- SQLite
 CREATE TABLE essensplaner_db (
-gerichtname TEXT PRIMARY KEY NOT NULL,
+  gerichtname TEXT PRIMARY KEY NOT NULL,
   zutaten TEXT,
   timee TEXT,
   descriptione TEXT,
