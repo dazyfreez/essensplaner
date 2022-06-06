@@ -72,3 +72,6 @@ else:
             datei.write(str(essen))
             datei.close()
         elif eingabe == 6:
+            print("beenden")
+        else:
+            print("falsche eingabe")
