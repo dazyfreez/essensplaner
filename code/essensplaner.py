@@ -75,3 +75,8 @@ else:
             print("beenden")
         else:
             print("falsche eingabe")
+    else:
+        print(essen)
+        print("wollen sie das menü öffen")
+        print("ja oder nein")
+        eingabe = input()
