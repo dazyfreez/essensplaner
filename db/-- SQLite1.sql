@@ -1,5 +1,5 @@
 -- SQLite
-CREATE TABLE essensplaner_db (
+CREATE TABLE meal (
   gerichtname TEXT NOT NULL PRIMARY KEY ,
   zutaten TEXT NOT NULL,
   zeit TEXT NOT NULL,
