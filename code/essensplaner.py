@@ -109,3 +109,5 @@ else:
                 datei = open("essen.txt", "w")
                 datei.write(str(essen))
                 datei.close()
+                print("es wurde eine datei angelegt")
+                
