@@ -139,3 +139,7 @@ else:
                         neu = input("was möchten sie ändern")
                         essen.append(neu)
                         print(essen)
+                    elif eingabe == 5:
+                        datei = open("essen.txt", "w")
+                        datei.write(str(essen))
+                        datei.close()
