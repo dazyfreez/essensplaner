@@ -125,3 +125,7 @@ else:
                     if eingabe == 1:
                         essen.reverse()
                         print(essen)
+                    elif eingabe == 2:
+                        neu = input("was möchten sie hinzufügen")
+                        essen.append(neu)
+                        print(essen)
