@@ -110,4 +110,6 @@ else:
                 datei.write(str(essen))
                 datei.close()
                 print("es wurde eine datei angelegt")
+                print("sie finden die datei unter dem namen essen.txt")
+                print("wollen sie weitere änderungen vornehmen")
                 
