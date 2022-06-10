@@ -112,4 +112,16 @@ else:
                 print("es wurde eine datei angelegt")
                 print("sie finden die datei unter dem namen essen.txt")
                 print("wollen sie weitere änderungen vornehmen")
-                
+                print("ja oder nein")
+                eingabe = input()
+                if eingabe == "ja":
+                    print("1 führ eine andere reinfolge aus")
+                    print("2 führ einen neuen eintrag hinzu")
+                    print("3 lösche einen eintrag")
+                    print("4 ändere einen eintrag")
+                    print("5 speichere die ergebnisse in einer datei")
+                    print("6 beenden")
+                    eingabe = int(input())
+                    if eingabe == 1:
+                        essen.reverse()
+                        print(essen)
