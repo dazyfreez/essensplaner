@@ -1,6 +1,6 @@
-from multiprocessing import connection
-import mysql
-import mysql.connector
+from multiprocessing import connection, Process
+from time import sleep
+from random import randint
 print("das ist das mainscript") 
 essen =  ["spagetti", "burger", "lasagne", "bestellen", "eier"]
 print("dieses skript ist ein essensplaner")
