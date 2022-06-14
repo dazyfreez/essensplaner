@@ -26,3 +26,4 @@ while (row!=None):
 cursor.close()
 # Abmelden
 con.disconnect()  
+print("test")
