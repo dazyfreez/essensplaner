@@ -25,4 +25,4 @@ while (row!=None):
 # Ende der Verarbeitung
 cursor.close()
 # Abmelden
-con.disconnect()
+con.disconnect()  
