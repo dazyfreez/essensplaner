@@ -1,3 +1,7 @@
 print("das ist das mainscript") 
 essen =  ["spagetti", "burger", "lasagne", "bestellen", "eier"]
 print("das ist gut")
+print("dieses skript ist ein essensplaner")
+print("es soll zukünftig mit der datenbank zusammen arbeiten")
+print("test")
+
