@@ -22,3 +22,13 @@ if eingabe == "ja":
         neu = input("was möchten sie hinzufügen")
         essen.append(neu)
         print(essen)
+    elif eingabe == 3:
+        löschen = input("was möchten sie löschen")
+        essen.remove(löschen)
+        print(essen)
+    elif eingabe == 4:
+        ändern = input("was möchten sie ändern")
+        essen.remove(ändern)
+        neu = input("was möchten sie ändern")
+        essen.append(neu)
+        print(essen)
