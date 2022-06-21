@@ -1,2 +1,2 @@
 print("dieses skript soll mit der datenbank kommunizieren") 
-print("")
+print("soll das skript ausgeführt werden")
