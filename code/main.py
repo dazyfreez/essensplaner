@@ -34,4 +34,8 @@ if eingabe == "ja":
         print(essen)
     elif eingabe == 5:
         print("speichere die ergebnisse in einer datei")
-        
+        datei = open("essenmain.txt", "w")
+        datei.write(str(essen))
+        datei.close()
+        print("datei gespeichert")
+        print("sie finden die datei unter dem ordner essensplaner")
