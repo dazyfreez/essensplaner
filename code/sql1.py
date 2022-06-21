@@ -11,3 +11,4 @@ if eingabe == "ja":
     print("ja oder nein")
     eingabe = input()
     if eingabe == "ja":
+        
