@@ -6,4 +6,4 @@ print("soll das skript ausgeführt werden")
 print("ja oder nein")
 eingabe = input()
 if eingabe == "ja":
-    
+    print("wollen sie das menü öffnen")
