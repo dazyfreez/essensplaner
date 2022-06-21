@@ -1,5 +1,4 @@
 from re import I
-import mysql
 import mysql.connector
 
 print("dieses skript soll mit der datenbank kommunizieren") 
