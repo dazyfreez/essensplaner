@@ -32,3 +32,6 @@ if eingabe == "ja":
         neu = input("was möchten sie ändern")
         essen.append(neu)
         print(essen)
+    elif eingabe == 5:
+        print("speichere die ergebnisse in einer datei")
+        
