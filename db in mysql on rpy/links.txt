@@ -1,1 +1,2 @@
 https://pimylifeup.com/raspberry-pi-mysql/
+# https://www.raspberrypi.org/documentation/linux/raspbian/raspbian-updating.md
