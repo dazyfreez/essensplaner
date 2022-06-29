@@ -39,3 +39,5 @@ if eingabe == "ja":
         datei.close()
         print("datei gespeichert")
         print("sie finden die datei unter dem ordner essensplaner")
+    elif eingabe == 6:
+        print("ende")
