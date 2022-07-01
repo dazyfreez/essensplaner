@@ -42,3 +42,4 @@ if eingabe == "ja":
     elif eingabe == 6:
         print("ende")
         print("wild")
+        print("wild")
