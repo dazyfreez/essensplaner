@@ -43,3 +43,4 @@ if eingabe == "ja":
         print("ende")
         print("wild")
         print("wild")
+        print("wild")
