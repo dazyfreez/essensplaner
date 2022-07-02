@@ -41,6 +41,3 @@ if eingabe == "ja":
         print("sie finden die datei unter dem ordner essensplaner")
     elif eingabe == 6:
         print("ende")
-        print("wild")
-        print("wild")
-        print("wild")
