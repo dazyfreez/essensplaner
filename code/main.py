@@ -43,3 +43,4 @@ if eingabe == "ja":
         print("ende")
     else:
         print("falsche eingabe")
+        print("wild")
