@@ -44,3 +44,5 @@ if eingabe == "ja":
     else:
         print("falsche eingabe")
         print("wild")
+elif eingabe == "nein":
+    print("ende") 
