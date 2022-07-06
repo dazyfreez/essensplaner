@@ -27,3 +27,4 @@ cursor.close()
 # Abmelden
 con.disconnect()  
 print("test")
+print("test was succesfull")
