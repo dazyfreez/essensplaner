@@ -47,3 +47,4 @@ if eingabe == "ja":
 elif eingabe == "nein":
     print("ende") 
     print("es ist ein fehler")
+    print("wow")
