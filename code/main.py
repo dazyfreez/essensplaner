@@ -50,3 +50,4 @@ else:
     print("falsche eingabe")
     print("lets go")
 print("ende")
+print("sie haben das ende erreicht")
