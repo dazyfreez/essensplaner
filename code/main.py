@@ -51,4 +51,4 @@ else:
     print("lets go")
 print("ende")
 print("sie haben das ende erreicht")
-print("wild")
+print("wil")
