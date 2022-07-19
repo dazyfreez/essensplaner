@@ -49,8 +49,3 @@ elif eingabe == "nein":
 else:
     print("falsche eingabe")
     print("lets go")
-print("ende")
-print("sie haben das ende erreicht")
-print("das ist das ende")
-print("das ist das ende")
-print("wild")
