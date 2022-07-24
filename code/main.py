@@ -46,4 +46,5 @@ if eingabe == "ja":
         print("wild")
 elif eingabe == "nein":
     print("ende") 
+    print("final")
     
