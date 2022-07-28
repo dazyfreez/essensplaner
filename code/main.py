@@ -50,6 +50,11 @@ elif eingabe == "nein":
 else:
     print("falsche eingabe")
     print("wild")
+<<<<<<< HEAD
     print("exit")
     print("ende")  
     
+=======
+    print("finish")
+    
+>>>>>>> 39b75fa40f255c874c75bf7051eb351e39d16bb5
