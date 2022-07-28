@@ -51,4 +51,5 @@ else:
     print("falsche eingabe")
     print("wild")
     print("exit")
+    print("ende")  
     
