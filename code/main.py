@@ -49,7 +49,3 @@ elif eingabe == "nein":
     print("final")
 else:
     print("falsche eingabe")
-    print("wild")
-    print("exit")
-    print("ende")  
-    print("am flughafen")
