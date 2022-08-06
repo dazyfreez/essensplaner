@@ -48,4 +48,4 @@ elif eingabe == "nein":
     print("ende") 
     print("final")
 else:
-    print("falsche eingabe")
+    print("falsche eingabe x")
