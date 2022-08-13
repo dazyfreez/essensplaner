@@ -49,4 +49,3 @@ elif eingabe == "nein":
     print("final")
 else:
     print("falsche eingabe")
-   print("das ist so cool") 

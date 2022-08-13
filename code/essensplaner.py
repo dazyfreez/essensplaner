@@ -144,5 +144,4 @@ else:
                         datei.write(str(essen))
                         datei.close()
                         print("es wurde eine datei angelegt")
-                        print("ich arbeite aus dem tgv wild")
-                        print("dasnice")
+                        
