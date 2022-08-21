@@ -50,3 +50,4 @@ elif eingabe == "nein":
 else:
     print("falsche eingabe")
     print("wild")
+print("ende")
